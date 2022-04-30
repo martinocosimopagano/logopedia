@@ -1,3 +1,7 @@
+composer update - dopo aver clonato la repository
+
+php yii serve - dopo ogni avvio
+
 <p align="center">
     <a href="https://github.com/yiisoft" target="_blank">
         <img src="https://avatars0.githubusercontent.com/u/993323" height="100px">
