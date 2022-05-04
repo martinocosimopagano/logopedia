@@ -34,7 +34,7 @@ https://desktop.github.com/
 
 4) IMPORTARE IL FILE logopedia.sql ( se dovesse dare problemi, creare un DB con lo stesso nome )
 
-
+5) 
 
 composer update - dopo aver clonato la repository
 
