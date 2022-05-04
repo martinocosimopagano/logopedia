@@ -1,9 +1,6 @@
 <p align="center">
-    
-    <img src="https://c.tenor.com/T6kJhTcIi8oAAAAd/newton-apple.gif" height="500px">
-    
-    <h1 align="center">Guida al lancio del framework</h1>
-    <br>
+  <img src="https://c.tenor.com/T6kJhTcIi8oAAAAd/newton-apple.gif" height="500px">
+  <h1 align="center">Guida al lancio del framework</h1>
 </p>
 
 <p align="center">
@@ -62,9 +59,6 @@ http://localhost:8080/
 
 
 <p align="center">
-    
-    <img src="https://media1.giphy.com/media/l4pTldWDec8WamJUc/giphy.gif" height="500px">
-    
-    <h1 align="center">ENJOY</h1>
-    <br>
+  <img src="https://media1.giphy.com/media/l4pTldWDec8WamJUc/giphy.gif" height="300px">
+  <h1 align="center">ENJOY</h1>
 </p>
