@@ -32,10 +32,26 @@ https://desktop.github.com/
 
 3) CLICCARE SU PHP MY ADMIN
 
-4) IMPORTARE IL FILE logopedia.sql ( se dovesse dare problemi, creare un DB con lo stesso nome )
+4) IMPORTARE IL FILE logopedia.sql su PHP MY ADMIN 
+( se dovesse dare problemi, creare un DB con lo stesso nome )
 
-5) 
+5) lanciare il CMD all'interno della cartella del progetto
+
+6) lanciare il comando -> php yii serve
 
 composer update - dopo aver clonato la repository
 
-php yii serve - dopo ogni avvio
+
+<p align="center">
+    <h1 align="center">DOPO OGNI AVVIO</h1>
+    <br>
+</p>
+
+1) AVVIARE XAMPP
+
+2) lanciare il CMD all'interno della cartella del progetto
+
+3) lanciare il comando -> 
+
+4) DIGITARE SU CROME 
+http://localhost:8080/
