@@ -56,7 +56,7 @@ https://desktop.github.com/
 http://localhost:8080/
 
 5) per avviare GII ( creazione codice )
-http://hostname/index.php?r=gii
+http://localhost:8080/index.php?r=gii
 
 
 
