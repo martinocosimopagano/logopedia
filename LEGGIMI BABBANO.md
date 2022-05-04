@@ -6,6 +6,36 @@
     <br>
 </p>
 
+<p align="center">
+    <h1 align="center">INSTALLAZIONE</h1>
+    <br>
+</p>
+
+1) DISINISTALLARE OGNI COMPONENTE DI MYSQL se questo è presento sul computer
+
+2) INSTALARE il programma XAMPP
+https://www.apachefriends.org/it/index.html
+
+3) INSTALLARE VISUAL STUDIO CODE 
+
+4) INSTALLARE GITHUB DESKTOP
+https://desktop.github.com/
+
+<p align="center">
+    <h1 align="center">PRIMO AVVIO</h1>
+    <br>
+</p>
+
+1) AVVIARE XAMPP
+
+2) DIGITARE LOCALHOST SU CROME 
+
+3) CLICCARE SU PHP MY ADMIN
+
+4) IMPORTARE IL FILE logopedia.sql ( se dovesse dare problemi, creare un DB con lo stesso nome )
+
+
+
 composer update - dopo aver clonato la repository
 
 php yii serve - dopo ogni avvio
