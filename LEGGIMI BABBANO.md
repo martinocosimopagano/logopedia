@@ -55,6 +55,9 @@ https://desktop.github.com/
 4) DIGITARE SU CROME 
 http://localhost:8080/
 
+5) per avviare GII ( creazione codice )
+http://hostname/index.php?r=gii
+
 
 
 
