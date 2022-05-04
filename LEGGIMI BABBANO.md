@@ -37,9 +37,11 @@ https://desktop.github.com/
 
 5) lanciare il CMD all'interno della cartella del progetto
 
-6) lanciare il comando -> php yii serve 
+6) lanciare il comando -> composer update 
 
-composer update - dopo aver clonato la repository
+7) lanciare il comando -> php yii serve
+
+
 
 
 <p align="center">
@@ -51,7 +53,7 @@ composer update - dopo aver clonato la repository
 
 2) lanciare il CMD all'interno della cartella del progetto
 
-3) lanciare il comando -> php yii serve 
+3) lanciare il comando -> php yii serve
 
 4) DIGITARE SU CROME 
 http://localhost:8080/
