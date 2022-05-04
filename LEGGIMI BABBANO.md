@@ -57,3 +57,14 @@ https://desktop.github.com/
 
 4) DIGITARE SU CROME 
 http://localhost:8080/
+
+
+
+
+<p align="center">
+    <a href="https://github.com/yiisoft" target="_blank">
+        <img src="https://media1.giphy.com/media/l4pTldWDec8WamJUc/giphy.gif" height="500px">
+    </a>
+    <h1 align="center">ENJOY</h1>
+    <br>
+</p>
