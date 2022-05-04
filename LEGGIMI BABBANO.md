@@ -1,7 +1,7 @@
 <p align="center">
-    <a href="https://github.com/yiisoft" target="_blank">
-        <img src="https://c.tenor.com/T6kJhTcIi8oAAAAd/newton-apple.gif" height="500px">
-    </a>
+    
+    <img src="https://c.tenor.com/T6kJhTcIi8oAAAAd/newton-apple.gif" height="500px">
+    
     <h1 align="center">Guida al lancio del framework</h1>
     <br>
 </p>
@@ -62,9 +62,9 @@ http://localhost:8080/
 
 
 <p align="center">
-    <a href="https://github.com/yiisoft" target="_blank">
-        <img src="https://media1.giphy.com/media/l4pTldWDec8WamJUc/giphy.gif" height="500px">
-    </a>
+    
+    <img src="https://media1.giphy.com/media/l4pTldWDec8WamJUc/giphy.gif" height="500px">
+    
     <h1 align="center">ENJOY</h1>
     <br>
 </p>
