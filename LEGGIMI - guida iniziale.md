@@ -5,7 +5,7 @@
 
 <p align="center">
     <h1 align="center">INSTALLAZIONE</h1>
-    <br>
+    <br> 
 </p>
 
 1) DISINISTALLARE OGNI COMPONENTE DI MYSQL se questo è presento sul computer
