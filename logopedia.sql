@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Creato il: Mag 03, 2022 alle 18:01
+-- Creato il: Mag 08, 2022 alle 12:38
 -- Versione del server: 10.4.24-MariaDB
 -- Versione PHP: 7.4.29
 
@@ -20,6 +20,32 @@ SET time_zone = "+00:00";
 --
 -- Database: `logopedia`
 --
+
+-- --------------------------------------------------------
+
+--
+-- Struttura della tabella `logopedista`
+--
+
+CREATE TABLE `logopedista` (
+  `id` int(11) NOT NULL,
+  `username` varchar(55) NOT NULL,
+  `password` varchar(255) NOT NULL,
+  `email` varchar(255) NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+
+-- --------------------------------------------------------
+
+--
+-- Struttura della tabella `paziente`
+--
+
+CREATE TABLE `paziente` (
+  `id` int(11) NOT NULL,
+  `username` varchar(55) NOT NULL,
+  `password` varchar(255) NOT NULL,
+  `email` varchar(255) NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
 -- --------------------------------------------------------
 
@@ -48,6 +74,18 @@ INSERT INTO `user` (`id`, `username`, `password`, `auth_key`, `acces_token`) VAL
 --
 
 --
+-- Indici per le tabelle `logopedista`
+--
+ALTER TABLE `logopedista`
+  ADD PRIMARY KEY (`id`);
+
+--
+-- Indici per le tabelle `paziente`
+--
+ALTER TABLE `paziente`
+  ADD PRIMARY KEY (`id`);
+
+--
 -- Indici per le tabelle `user`
 --
 ALTER TABLE `user`
@@ -56,6 +94,18 @@ ALTER TABLE `user`
 --
 -- AUTO_INCREMENT per le tabelle scaricate
 --
+
+--
+-- AUTO_INCREMENT per la tabella `logopedista`
+--
+ALTER TABLE `logopedista`
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT;
+
+--
+-- AUTO_INCREMENT per la tabella `paziente`
+--
+ALTER TABLE `paziente`
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT;
 
 --
 -- AUTO_INCREMENT per la tabella `user`
