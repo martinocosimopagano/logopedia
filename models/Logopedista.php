@@ -3,6 +3,7 @@
 namespace app\models;
 
 use Yii;
+use Yii\db\Query;
 
 /**
  * This is the model class for table "logopedista".
