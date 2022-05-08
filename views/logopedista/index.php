@@ -4,5 +4,5 @@
 <h1>logopedista/index</h1>
 
 <p>
-    Hello word! This is logopedista view!
+    Hello word! This is logopedista view! miao
 </p>
