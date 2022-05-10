@@ -51,7 +51,11 @@ AppAsset::register($this);
                 )
                 . Html::endForm()
                 . '</li>'
-            )
+                ),
+                ['label' => 'PROVE LINK', 'url' => ['/logopedista/view']]
+            //AGGIUNGIAMO UN LINK AL MENU
+            //C:\xampp\htdocs\logopedia\views\logopedista\index.php
+            
         ],
     ]);
     NavBar::end();
