@@ -52,7 +52,7 @@ AppAsset::register($this);
                 . Html::endForm()
                 . '</li>'
                 ),
-                ['label' => 'PROVE LINK', 'url' => ['/logopedista/view']]
+                ['label' => 'PROVE LINK', 'url' => ['/logopedista/page2']]
             //AGGIUNGIAMO UN LINK AL MENU
             //C:\xampp\htdocs\logopedia\views\logopedista\index.php
             
